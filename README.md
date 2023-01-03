@@ -58,3 +58,6 @@ MINIMUM :
 
 ## Licensed
 Licenced under [MIT]
+
+## Report
+If you are curious about this project, then [click here](https://github.com/GWENTzy/Digital-Assistant-Desktop-App/blob/main/Digital%20Assistant%20Based%20On%20Desktop%20Application%20Using%20Speech%20Recognition%20And%20Text%20To%20Speech%20With%20Typocorrecting.pdf)
